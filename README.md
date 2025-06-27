@@ -91,8 +91,7 @@ Beautiful weather application with location-based forecasts, interactive maps, a
 **Tech Stack:** React, Vite, OpenWeather API, CSS3  
 **Features:** 🌍 Global Weather, 📱 PWA, 🎨 Animations
 
-[🌐 Live Demo](https://yourwebsite.com/project2) | [💻 Source Code](https://github.com/jayjtech/project2)
-
+[🌐 Live Demo](#) | [💻 Source Code](#).
 </td>
 </tr>
 <tr>
@@ -104,7 +103,7 @@ Personal portfolio showcasing projects with smooth animations, responsive design
 **Tech Stack:** Next.js, TailwindCSS, Framer Motion  
 **Features:** 🎭 Animations, 📱 Responsive, ⚡ Fast Loading
 
-[🌐 Live Demo](https://yourwebsite.com) | [💻 Source Code](https://github.com/jayjtech/portfolio)
+[🌐 Live Demo](#) | [💻 Source Code](#)
 
 </td>
 <td width="50%">
@@ -115,7 +114,7 @@ Spotify-inspired music player with playlist management, search functionality, an
 **Tech Stack:** React, Context API, CSS Modules  
 **Features:** 🎵 Audio Controls, 📝 Playlists, 🔍 Search
 
-[🌐 Live Demo](https://yourwebsite.com/project3) | [💻 Source Code](https://github.com/jayjtech/music-player)
+[🌐 Live Demo](#) | [💻 Source Code](#)
 
 </td>
 </tr>
@@ -153,16 +152,16 @@ Spotify-inspired music player with playlist management, search functionality, an
 ### 📬 Get In Touch
 
 <p>
-  <a href="https://yourwebsite.com" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:jayjtech@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/jegede-oluwafemi-joshua-4258a6267/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
+  <a href="https://instagram/jayjtech" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
